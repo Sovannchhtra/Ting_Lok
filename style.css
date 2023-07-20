@@ -167,7 +167,7 @@ body{
 }
 /* _____________________________________________________ */
 #bg_form_login{
-     position: fi;
+     position: fixed;
      top: 0;
      display: none;
      z-index: 5; 
